@@ -1,0 +1,4 @@
+displayBrightness 85
+mouseSensitivity 1 35
+fontSize 13
+volume 75
