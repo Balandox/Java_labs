@@ -1,0 +1,5 @@
+Cp1251 -> Windows-1251
+hello world!
+Today is 12 april:)
+
+Привет java
